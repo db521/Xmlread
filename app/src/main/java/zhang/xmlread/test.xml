@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<weather>
+<city>
+<name>北京</name>
+<temp>28</temp>
+<pm25>100</pm25>
+</city>
+<city>
+<name>上海</name>
+<temp>21</temp>
+<pm25>32</pm25>
+</city>
+<city>
+<name>西安</name>
+<temp>39</temp>
+<pm25>10</pm25>
+</city>
+</weather>
