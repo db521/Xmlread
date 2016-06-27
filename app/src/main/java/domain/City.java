@@ -1,4 +1,4 @@
-package zhang.xmlread;
+package domain;
 
 /**
  * Created by zhang on 16/6/23.
@@ -36,5 +36,14 @@ public class City {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    @Override
+    public String toString() {
+        return "City{" +
+                "name='" + name + '\'' +
+                ", temp='" + temp + '\'' +
+                ", pm25='" + pm25 + '\'' +
+                '}';
     }
 }

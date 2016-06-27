@@ -3,15 +3,11 @@ package zhang.xmlread;
 import android.app.Activity;
 import android.os.Bundle;
 import android.util.Xml;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
 
 import org.xmlpull.v1.XmlPullParser;
-import org.xmlpull.v1.XmlPullParserException;
 
-import java.io.IOException;
-import zhang.xmlread.City;
+import domain.City;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;

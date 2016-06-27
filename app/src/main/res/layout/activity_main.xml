@@ -9,7 +9,7 @@
                 tools:context=".MainActivity">
     <Button
         android:onClick="click"
-        android:text="分析一下"
+        android:text="分析两下"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 </RelativeLayout>
